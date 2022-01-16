@@ -1,2 +1,18 @@
 # nederlandse-dwangmedicatie
+
 2002-2022
+
+# antidepressant
+https://en.wikipedia.org/wiki/Antidepressant
+
+# methadone
+https://en.wikipedia.org/wiki/Methadone
+
+# heroine
+https://nl.wikipedia.org/wiki/Hero%C3%AFne
+
+# fentanyl
+https://en.wikipedia.org/wiki/Fentanyl
+
+# haloperidol
+https://en.wikipedia.org/wiki/Haloperidol
